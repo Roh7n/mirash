@@ -33,6 +33,17 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [ 
+        "expo-font",
+        {
+          "fonts" : [
+              "./assets/fonts/PixelifySans-Bold.ttf",
+              "./assets/fonts/PixelifySans-Medium.ttf",
+              "./assets/fonts/PixelifySans-Regular.ttf",
+              "./assets/fonts/PixelifySans-SemiBold.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
